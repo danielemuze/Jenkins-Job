@@ -1,2 +1,2 @@
 # Jenkins-Job
-For Jenkins
+For Jenkins jobs used for training purposes
